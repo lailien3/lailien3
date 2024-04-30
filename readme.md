@@ -9,7 +9,7 @@
 </a>
 
 <a href="https://github.com/lailien3">
-  <img height=212 align="center" src="https://github-readme-stats.vercel.app/api?username=lailien3&show_icons=true&include_all_commits=true&theme=cobalt&show=reviews,prs_merged&hide=issues&title_color=F5D4F1&text_color=CEEAC0&border_color=B4D6EF&bg_color=454749&border_radius=4.5" />
+  <img height=212 align="center" src="https://github-readme-stats.vercel.app/api?username=lailien3&show_icons=true&include_all_commits=true&theme=cobalt&title_color=F5D4F1&text_color=CEEAC0&border_color=B4D6EF&bg_color=454749&border_radius=4.5" />
 </a>
 
 ✨  ✨  ✨  ✨  ✨  ✨  ✨  ✨  ✨  ✨  ✨  ✨  ✨  ✨  ✨  ✨  ✨  ✨  ✨  ✨  ✨  ✨  ✨
