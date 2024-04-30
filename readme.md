@@ -17,7 +17,6 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lailien3&repo=LailaMuseum)](https://github.com/lailien3/LailaMuseum)
 
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lailien3&repo=LailaMuseum)
 
 
 
