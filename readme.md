@@ -1,5 +1,9 @@
 <img width="1580" alt="Screenshot 2024-04-30 at 16 09 44" src="https://github.com/lailien3/lailien3/assets/138867360/ae582a0f-350d-474b-91ed-7d72aabe45c1">
-![Screenshot_2024-04-30_at_16 57 07-removebg-preview](https://github.com/lailien3/lailien3/assets/138867360/e33d29e2-0fb5-4812-a8e7-a8006e6c16b6)
+
+<img width="1580" alt="Screenshot_2024-04-30_at_16 57 07" src="https://github.com/lailien3/lailien3/assets/138867360/b78b5609-7e2f-4272-a3e4-be8b0c4318d5">
+
+
+
 
 <!--_**STATS**_-->
 
