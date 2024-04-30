@@ -23,7 +23,7 @@
 </a>
 
 <a href="https://github.com/DEFRA/rod-licensing">
-  <img height=50 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lailien3&repo=DEFRA/rod-licensing&theme=cobalt&title_color=F5D4F1&text_color=CEEAC0&border_color=B4D6EF&bg_color=454749&border_radius=4.5" />
+  <img height=50 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DEFRA&repo=rod-licensing&theme=cobalt&title_color=F5D4F1&text_color=CEEAC0&border_color=B4D6EF&bg_color=454749&border_radius=4.5" />
 </a>
 
 <a href="https://github.com/lailien3/MagicOrb">
