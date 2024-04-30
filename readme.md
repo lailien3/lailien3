@@ -5,7 +5,7 @@
 ✨  ✨  ✨  ✨  ✨  ✨  ✨  ✨  ✨  ✨  ✨  ✨  ✨  ✨  ✨  ✨  ✨  ✨  ✨  ✨  ✨  ✨  ✨
 
 <a href="https://github.com/lailien3?tab=repositories">
-  <img height=212 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rtasalem&theme=cobalt&title_color=F5D4F1" />
+  <img height=212 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rtasalem&theme=cobalt&title_color=F5D4F1&text_color=CEEAC0&border_color=CCC8E2&bg_color=B4D6EF&border_radius=4.5" />
 </a>
 
 <a href="https://github.com/lailien3">
