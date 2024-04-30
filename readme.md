@@ -8,7 +8,7 @@
 ✨  ✨  ✨  ✨  ✨  ✨  ✨  ✨  ✨  ✨  ✨  ✨  ✨  ✨  ✨  ✨  ✨  ✨  ✨  ✨  ✨  ✨  ✨
 
 <a href="https://github.com/lailien3?tab=repositories">
-  <img height=212 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rtasalem&theme=aura&layout=compact" />
+  <img height=212 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lailien3&theme=aura&layout=compact" />
 </a>
 <a href="https://github.com/lailien3">
   <img height=212 align="center" src="https://github-readme-stats.vercel.app/api?username=rtasalem&show_icons=true&include_all_commits=true&theme=aura&layout=compact&show=reviews,prs_merged&hide=issues" />
