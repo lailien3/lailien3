@@ -9,7 +9,7 @@
 
 <!--_**BIO**_-->
 - 🔭 _**working on**_ ... https://github.com/DEFRA/rod-licensing  |  https://github.com/lailien3/LailaMuseum  |  https://github.com/lailien3/MagicOrb
-- 🌱 _**learning**_ ... Node.js, AWS
+- 🌱 _**learning**_ ... Node.js  |  AWS
 - 📫 _**me**_ ... https://www.linkedin.com/in/lailaaleissa/
 
 - ⚡ fun fact: ...
