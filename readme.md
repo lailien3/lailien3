@@ -12,7 +12,7 @@
 - 🌱 _**learning**_ ... Node.js  |  AWS
 - 📫 _**me**_ ... https://www.linkedin.com/in/lailaaleissa/
 
-- ⚡ fun fact: ...
+- ⚡ _**fun fact**_ ...
 
 
 
