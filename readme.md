@@ -1,8 +1,9 @@
 <img width="1580" alt="Screenshot 2024-04-30 at 16 09 44" src="https://github.com/lailien3/lailien3/assets/138867360/ae582a0f-350d-474b-91ed-7d72aabe45c1">
+![Screenshot_2024-04-30_at_16 57 07-removebg-preview](https://github.com/lailien3/lailien3/assets/138867360/e33d29e2-0fb5-4812-a8e7-a8006e6c16b6)
 
 <!--_**STATS**_-->
 
-✨  ✨  ✨  ✨  ✨  ✨  ✨  ✨  ✨  ✨  ✨  ✨  ✨  ✨  ✨  ✨  ✨  ✨  ✨  ✨  ✨  ✨  ✨  ✨  ✨  ✨  ✨  ✨  ✨  ✨  ✨  ✨  ✨  ✨  ✨
+✨  ✨  ✨  ✨  ✨  ✨  ✨  ✨  ✨  ✨  ✨  ✨  ✨  ✨  ✨  ✨  ✨  ✨  ✨  ✨  ✨  ✨  ✨  ✨  ✨  ✨  ✨  ✨  ✨  ✨  ✨  ✨  ✨  ✨  ✨  ✨  ✨  ✨  ✨  ✨  ✨  ✨  ✨  ✨  ✨  ✨  ✨  ✨  ✨  ✨  ✨  ✨  ✨
 
 <a href="https://github.com/lailien3?tab=repositories">
   <img height=212 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lailien3&theme=cobalt&title_color=F5D4F1&text_color=CEEAC0&border_color=B4D6EF&bg_color=454749&border_radius=4.5" />
