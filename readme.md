@@ -12,7 +12,7 @@
 </a>
 
 <a href="https://github.com/lailien3/LailaMuseum">
-  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lailien3&repo=LailaMuseum&theme=cobalt&title_color=F5D4F1&text_color=CEEAC0&border_color=B4D6EF&bg_color=454749&border_radius=4.5" />
+  <img height=100 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lailien3&repo=LailaMuseum&theme=cobalt&title_color=F5D4F1&text_color=CEEAC0&border_color=B4D6EF&bg_color=454749&border_radius=4.5" />
 </a>
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lailien3&repo=LailaMuseum)](https://github.com/lailien3/LailaMuseum)
