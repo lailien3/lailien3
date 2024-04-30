@@ -1,6 +1,6 @@
-c### Hi there 👋
+<img width="1580" alt="Screenshot 2024-04-30 at 16 09 44" src="https://github.com/lailien3/lailien3/assets/138867360/ae582a0f-350d-474b-91ed-7d72aabe45c1">
 
-<img width="1048" alt="Screenshot 2024-04-30 at 15 47 24" src="https://github.com/lailien3/lailien3/assets/138867360/7933f074-e8af-45e8-91ef-1c06e8dea739">
+
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lailien3&show_icons=true&theme=tokyonight)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lailien3&show_icons=true&theme=cobalt)
