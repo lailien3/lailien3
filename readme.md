@@ -1,29 +1,18 @@
 <img width="1580" alt="Screenshot 2024-04-30 at 16 09 44" src="https://github.com/lailien3/lailien3/assets/138867360/ae582a0f-350d-474b-91ed-7d72aabe45c1">
 
 <!--_**STATS**_-->
-<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lailien3&show_icons=true&theme=tokyonight) -->
-✨  ✨  ✨  ✨  ✨  ✨  ✨  ✨  ✨  ✨  ✨  ✨  ✨  ✨  ✨  ✨  ✨  ✨  ✨  ✨  ✨  ✨  ✨
-
-<!--
-<a href="https://github.com/lailien3?tab=repositories">
-  <img height=212 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lailien3&theme=cobalt" />
-</a>
-
- <a href="https://github.com/lailien3?tab=repositories">
-  <img height=212 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lailien3&theme=cobalt&layout=compact" />
-</a>
- -->
 
 ✨  ✨  ✨  ✨  ✨  ✨  ✨  ✨  ✨  ✨  ✨  ✨  ✨  ✨  ✨  ✨  ✨  ✨  ✨  ✨  ✨  ✨  ✨
 
 <a href="https://github.com/lailien3?tab=repositories">
-  <img height=212 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rtasalem&theme=cobalt&layout=compact" />
+  <img height=212 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rtasalem&theme=cobalt" />
 </a>
+
 <a href="https://github.com/lailien3">
-  <img height=212 align="center" src="https://github-readme-stats.vercel.app/api?username=lailien3&show_icons=true&include_all_commits=true&theme=cobalt&layout=compact&show=reviews,prs_merged&hide=issues" />
+  <img height=212 align="center" src="https://github-readme-stats.vercel.app/api?username=lailien3&show_icons=true&include_all_commits=true&theme=cobalt&show=reviews,prs_merged&hide=issues" />
 </a>
 
-
+✨  ✨  ✨  ✨  ✨  ✨  ✨  ✨  ✨  ✨  ✨  ✨  ✨  ✨  ✨  ✨  ✨  ✨  ✨  ✨  ✨  ✨  ✨
 
 <!--_**BIO**_-->
 - 🔭 _**working on**_ ... https://github.com/DEFRA/rod-licensing  |  https://github.com/lailien3/LailaMuseum  |  https://github.com/lailien3/MagicOrb
