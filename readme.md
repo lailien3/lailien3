@@ -4,6 +4,10 @@
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lailien3&show_icons=true&theme=tokyonight) -->
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lailien3&show_icons=true&theme=cobalt)
 
+<a href="https://github.com/lailien3">
+  <img height=212 align="center" src="https://github-readme-stats.vercel.app/api?username=lailien3&show_icons=true&include_all_commits=true&theme=conbalt" />
+</a>
+
 
 ✨  ✨  ✨  ✨  ✨  ✨  ✨  ✨  ✨  ✨  ✨  ✨  ✨  ✨  ✨  ✨  ✨  ✨  ✨  ✨  ✨  ✨  ✨
 
