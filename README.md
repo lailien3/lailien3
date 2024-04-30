@@ -1,5 +1,5 @@
 ### Hi there 👋
-<img width="1048" alt="Screenshot 2024-04-30 at 15 47 24" src="https://github.com/lailien3/lailien3/assets/138867360/f14bcdd9-5edd-4b19-8054-ca11d14e2bdb">
+
 
 
 
