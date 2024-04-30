@@ -8,8 +8,13 @@
 ✨  ✨  ✨  ✨  ✨  ✨  ✨  ✨  ✨  ✨  ✨  ✨  ✨  ✨  ✨  ✨  ✨  ✨  ✨  ✨  ✨  ✨  ✨
 
 <a href="https://github.com/lailien3?tab=repositories">
-  <img height=212 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lailien3&theme=tokyonight&layout=compact" />
+  <img height=212 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lailien3&theme=cobalt" />
 </a>
+
+<!-- <a href="https://github.com/lailien3?tab=repositories">
+  <img height=212 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lailien3&theme=cobalt&layout=compact" />
+</a>
+ -->
 
 ✨  ✨  ✨  ✨  ✨  ✨  ✨  ✨  ✨  ✨  ✨  ✨  ✨  ✨  ✨  ✨  ✨  ✨  ✨  ✨  ✨  ✨  ✨
 
