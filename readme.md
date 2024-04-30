@@ -7,6 +7,12 @@
 
 ✨  ✨  ✨  ✨  ✨  ✨  ✨  ✨  ✨  ✨  ✨  ✨  ✨  ✨  ✨  ✨  ✨  ✨  ✨  ✨  ✨  ✨  ✨
 
+
+<img height=212 align="center" src="https://github-readme-stats.vercel.app/api?username=lailien3&show_icons=true&include_all_commits=true&theme=onedark&layout=compact&show=reviews,prs_merged&hide=issues" />
+  <img height=212 align="center" src="https://github-readme-stats.vercel.app/api?username=lailien3&show_icons=true&include_all_commits=true&theme=aura&layout=compact&show=reviews,prs_merged&hide=issues" />
+
+
+
 <!--_**BIO**_-->
 - 🔭 _**working on**_ ... https://github.com/DEFRA/rod-licensing  |  https://github.com/lailien3/LailaMuseum  |  https://github.com/lailien3/MagicOrb
 - 🌱 _**learning**_ ... Node.js  |  AWS
