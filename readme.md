@@ -18,6 +18,7 @@
 <img width="1580" alt="Screenshot_2024-04-30_at_16 57 07" src="https://github.com/lailien3/lailien3/assets/138867360/b78b5609-7e2f-4272-a3e4-be8b0c4318d5">
 
 <!--_**PINS**_-->
+<!--
 <a href="https://github.com/lailien3/LailaMuseum">
   <img height=83 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lailien3&repo=LailaMuseum&theme=cobalt&title_color=F5D4F1&text_color=CEEAC0&border_color=B4D6EF&bg_color=454749&border_radius=4.5" />
 </a>
@@ -29,6 +30,7 @@
 <a href="https://github.com/DEFRA/rod-licensing">
   <img height=83 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DEFRA&repo=rod-licensing&theme=cobalt&title_color=F5D4F1&text_color=CEEAC0&border_color=B4D6EF&bg_color=454749&border_radius=4.5" />
 </a>
+-->
 <!---->
 
 <img width="1580" alt="Screenshot_2024-04-30_at_16 57 07" src="https://github.com/lailien3/lailien3/assets/138867360/b78b5609-7e2f-4272-a3e4-be8b0c4318d5">
