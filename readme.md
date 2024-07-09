@@ -5,7 +5,7 @@
 
 <!--_**STATS**_-->
 <a href="https://github.com/lailien3?tab=repositories">
-  <img height=217 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lailien3&theme=cobalt&title_color=F5D4F1&text_color=CEEAC0&border_color=B4D6EF&bg_color=454749&border_radius=4.5" />
+  <img height=217 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lailien3&theme=cobalt&title_color=276D49&text_color=39Bf50&border_color=C3f1C9&bg_color=3B4f6E&border_radius=4.5" />
 </a>
 
 <!--
