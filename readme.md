@@ -36,7 +36,6 @@
 
 <!--_**BIO**_-->
 •     🔭 _**I am a**_ ... Junior Software Developer @ DEFRA     • <br>
-•     🔭 _**working on**_ ... https://github.com/lailien3/LailaMuseum     • <br>
 •     🌱 _**learning**_ ... Node.js  |  AWS     • <br>
 •     📫 _**me**_ ... https://www.linkedin.com/in/lailaaleissa/     •
 <!---->
