@@ -35,7 +35,7 @@
 <img width="1580" alt="Screenshot_2024-04-30_at_16 57 07" src="https://github.com/lailien3/lailien3/assets/138867360/b78b5609-7e2f-4272-a3e4-be8b0c4318d5">
 
 <!--_**BIO**_-->
-•     🔭 _**I am a**_ ... Junior Software Developer @ DEFRA     • <br>
+•     🔭 _**I am a**_ ... Software Developer @ DEFRA     • <br>
 •     🌱 _**learning**_ ... Node.js  |  AWS     • <br>
 •     📫 _**me**_ ... https://www.linkedin.com/in/lailaaleissa/     •
 <!---->
