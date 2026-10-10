@@ -2,41 +2,49 @@
   <img src="assets/laila-ascii.svg" alt="LAILA ALEISSA" />
 </div>
 
-
-<img src="output/bonsai-growth.gif" width="300" alt="my git-bonsai" align="center" />
-
+<div align="center">
+  <img src="output/bonsai-growth.gif" width="300" alt="my git-bonsai" align="center" />
+</div>
 
 <div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=4F7942&center=true&vCenter=true&width=460&lines=Software+Developer+%40+DEFRA" alt="Typing SVG" />
-
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=4F7942&center=true&vCenter=true&width=460&lines=Software+Developer+%40+DEFRA" alt="Typing SVG" />
 </div>
 
 ### 𝕥𝕖𝕔𝕙 𝕤𝕥𝕒𝕔𝕜
 
 <p align="center"><img src="https://img.shields.io/badge/languages-4F7942?style=for-the-badge&logoColor=F0EAD6" /></p>
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=js,html,css&perline=4" />
-</div><br>
+<p align="center">
+  <img src="https://cdn.simpleicons.org/javascript/4F7942" width="48" height="48" />&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/html5/4F7942" width="48" height="48" />&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/css/4F7942" width="48" height="48" />
+</p><br>
 
 <p align="center"><img src="https://img.shields.io/badge/frameworks%20%26%20libraries-93C572?style=for-the-badge&logoColor=414A4C" /></p>
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,jest,prettier&perline=4" />
-</div><br>
+<p align="center">
+  <img src="https://cdn.simpleicons.org/react/93C572" width="48" height="48" />&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/nodedotjs/93C572" width="48" height="48" />&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/jest/93C572" width="48" height="48" />&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/prettier/93C572" width="48" height="48" />
+</p><br>
 
 <p align="center"><img src="https://img.shields.io/badge/cloud%20%26%20devops-414A4C?style=for-the-badge&logoColor=F0EAD6" /></p>
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=aws,docker,jenkins&perline=4" />
-</div><br>
-
-<p align="center"><img src="https://img.shields.io/badge/tools%20%26%20platforms-F0EAD6?style=for-the-badge&logoColor=414A4C" /></p>
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=github,gitlab,npm,figma,vscode,postman,notion,homebrew&perline=4" />
-</div><br>
-
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=lailien3&theme=matrix&no-frame=true&row=1&column=6&margin-w=8" />
-</p>
+  <img src="https://skillicons.dev/icons?i=aws" width="48" height="48" />&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/docker/414A4C" width="48" height="48" />&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/jenkins/414A4C" width="48" height="48" />
+</p><br>
+
+<p align="center"><img src="https://img.shields.io/badge/tools%20%26%20platforms-414A4C?style=for-the-badge&logoColor=F0EAD6" /></p>
+<p align="center">
+  <img src="https://cdn.simpleicons.org/github/414A4C" width="48" height="48" />&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/gitlab/414A4C" width="48" height="48" />&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/npm/414A4C" width="48" height="48" />&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/figma/414A4C" width="48" height="48" />&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" />&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/postman/414A4C" width="48" height="48" />&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/notion/414A4C" width="48" height="48" />&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/homebrew/414A4C" width="48" height="48" />
+</p><br>
 
 ### 𝕤𝕥𝕒𝕥𝕤
 
