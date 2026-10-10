@@ -30,22 +30,22 @@ Connecting to LinkedIn... done ✅
 
 ### 𝕥𝕖𝕔𝕙 𝕤𝕥𝕒𝕔𝕜
 
-**languages**
+**𝕝𝕒𝕟𝕘𝕦𝕒𝕘𝕖𝕤**
 <div align="center">
   <img src="https://skillicons.dev/icons?i=js,html,css&perline=4" />
 </div>
 
-**frameworks & libraries**
+**𝕗𝕣𝕒𝕞𝕖𝕨𝕠𝕣𝕜𝕤 & 𝕝𝕚𝕓𝕣𝕒𝕣𝕚𝕖𝕤**
 <div align="center">
   <img src="https://skillicons.dev/icons?i=react,nodejs,jest,prettier&perline=4" />
 </div>
 
-**cloud & devops**
+**𝕔𝕝𝕠𝕦𝕕 & 𝕕𝕖𝕧𝕠𝕡𝕤**
 <div align="center">
   <img src="https://skillicons.dev/icons?i=aws,docker,jenkins&perline=4" />
 </div>
 
-**tools & platforms**
+**𝕥𝕠𝕠𝕝𝕤 & 𝕡𝕝𝕒𝕥𝕗𝕠𝕣𝕞𝕤**
 <div align="center">
   <img src="https://skillicons.dev/icons?i=github,gitlab,npm,figma,vscode,postman,notion&perline=4" />
 </div>
