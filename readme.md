@@ -10,7 +10,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=63B481&center=true&vCenter=true&width=460&lines=software+developer+%40+DEFRA" alt="Typing SVG" />
 </div>
 
-<h2 align="center"><img src="assets/decor-tech-left.png" height="30" />𝕥𝕖𝕔𝕙 𝕤𝕥𝕒𝕔𝕜<img src="assets/decor-tech-right.png" height="30" /></h2>
+<h2 align="center"><img src="assets/decor-tech-left.png" height="30" />𝕥𝕖𝕔𝕙 𝕤𝕥𝕒𝕔𝕜 <img src="assets/decor-tech-right.png" height="30" /></h2>
 
 <div align="center">
 <table bgcolor="#35694C" cellpadding="3" cellspacing="0"><tr><td>
@@ -61,7 +61,7 @@
 </td></tr></table>
 </div>
 
-<h2 align="center"><img src="assets/decor-stats-left.png" height="30" />𝕤𝕥𝕒𝕥𝕤<img src="assets/decor-stats-right.png" height="30" /></h2>
+<h2 align="center"><img src="assets/decor-stats-left.png" height="30" />𝕤𝕥𝕒𝕥𝕤 <img src="assets/decor-stats-right.png" height="30" /></h2>
 
 <p align="center">
   <a href="https://github.com/lailien3">
@@ -69,7 +69,7 @@
   </a>
 </p>
 
-<h2 align="center"><img src="assets/decor-connect-left.png" height="30" />𝕔𝕠𝕟𝕟𝕖𝕔𝕥<img src="assets/decor-connect-right.png" height="30" /></h2>
+<h2 align="center"><img src="assets/decor-connect-left.png" height="30" />𝕔𝕠𝕟𝕟𝕖𝕔𝕥 <img src="assets/decor-connect-right.png" height="30" /></h2>
 
 <p align="center">
   <a href="www.linkedin.com/in/laila3">
@@ -83,4 +83,4 @@
   </a>&nbsp;&nbsp;
 </p>
 
-<h3 align="center"><img src="assets/decor-connect-left.png" height="25" />𝕔𝕣𝕖𝕕𝕚𝕥𝕤<img src="assets/decor-connect-right.png" height="25" /></h3>
+<h3 align="center"><img src="assets/decor-connect-left.png" height="25" />𝕔𝕣𝕖𝕕𝕚𝕥𝕤 <img src="assets/decor-connect-right.png" height="25" /></h3>
