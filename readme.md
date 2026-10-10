@@ -10,10 +10,10 @@
 
 ### 𝕥𝕖𝕔𝕙 𝕤𝕥𝕒𝕔𝕜
 
-<div align="center">
+<div>
        <img src="https://skillicons.dev/icons?i=js,css,html,&perline=4" /> 
 </div> <br>
-<div align="center">
+<div>
        <img src="https://skillicons.dev/icons?i=git,github,gitlab,npm,figma,vscode,&perline=4" /> 
 </div>
 
