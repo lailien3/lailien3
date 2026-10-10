@@ -1,9 +1,5 @@
 <div align="center">
-  <img src="assets/laila-ascii.png" alt="LAILA ALEISSA" width="100%" />
-</div>
-
-<div align="center">
-  <img src="output/bonsai-growth.gif" width="55%" alt="my git-bonsai" align="center" />
+  <img src="assets/header-bonsai.gif" alt="LAILA ALEISSA with my git-bonsai" width="100%" />
 </div>
 
 <div align="center">
