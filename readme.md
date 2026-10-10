@@ -83,4 +83,4 @@
   </a>&nbsp;&nbsp;
 </p>
 
-<h3 align="center"><img src="assets/decor-connect-left.png" height="30" />𝕔𝕣𝕖𝕕𝕚𝕥𝕤<img src="assets/decor-connect-right.png" height="30" /></h3>
+<h3 align="center"><img src="assets/decor-connect-left.png" height="25" />𝕔𝕣𝕖𝕕𝕚𝕥𝕤<img src="assets/decor-connect-right.png" height="25" /></h3>
