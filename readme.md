@@ -13,7 +13,8 @@
 <h2 align="center">°.࿔*:･°❀⋆.ೃ࿔*:･𝕥𝕖𝕔𝕙 𝕤𝕥𝕒𝕔𝕜 ･:*࿔ೃ.⋆❀°･:*࿔.°</h2>
 
 <div align="center">
-<table>
+<table bgcolor="#35694C" cellpadding="3" cellspacing="0"><tr><td>
+<table bgcolor="#1e2432" cellpadding="10" cellspacing="0" width="100%">
 <tr>
 <td width="50%" align="center" valign="top">
 
@@ -57,6 +58,8 @@
 </td>
 </tr>
 </table>
+</td></tr></table>
+</div>
 
 <h2 align="center">°.࿔*:･°❀⋆.ೃ࿔*:･𝕤𝕥𝕒𝕥𝕤 ･:*࿔ೃ.⋆❀°･:*࿔.°</h2>
 
