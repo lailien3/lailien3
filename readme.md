@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/laila-ascii.png" alt="LAILA ALEISSA" />
+  <img src="assets/laila-ascii.png" alt="LAILA ALEISSA" height="200" />
 </div>
 
 <div align="center">
