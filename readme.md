@@ -93,9 +93,8 @@
     <br>
     ⌨️ typing animation by <a href="https://github.com/DenverCoder1/readme-typing-svg">readme-typing-svg</a>
     <br>
-    🔥 streak stats by <a href="https://github.com/DenverCoder1/github-readme-streak-stats">github-readme-streak-stats</a>
-    <br>
     ✨ heading fonts generated with <a href="https://fsymbols.com/generators/carty/">fsymbols.com carty generator</a>
     <br>
+    🔥 streak stats by <a href="https://github.com/DenverCoder1/github-readme-streak-stats">github-readme-streak-stats</a>
   </sub>
 </p>
