@@ -72,7 +72,7 @@
 <h2 align="center">°.࿔*:･°❀⋆.ೃ࿔*:･𝕔𝕠𝕟𝕟𝕖𝕔𝕥 ･:*࿔ೃ.⋆❀°･:*࿔.°</h2>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/lailaaleissa/">
+  <a href="www.linkedin.com/in/laila3">
     <img src="https://img.shields.io/badge/LinkedIn-35694C?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHRleHQgeD0iMTIiIHk9IjE3IiBmb250LWZhbWlseT0iQXJpYWwsSGVsdmV0aWNhLHNhbnMtc2VyaWYiIGZvbnQtc2l6ZT0iMTQiIGZvbnQtd2VpZ2h0PSI3MDAiIGZpbGw9IiNBQ0UxQUYiIHRleHQtYW5jaG9yPSJtaWRkbGUiPmluPC90ZXh0Pjwvc3ZnPg==" />
   </a>&nbsp;&nbsp;
   <a href="https://www.instagram.com/lailien3/">
