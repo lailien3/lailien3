@@ -6,7 +6,7 @@
 •     📫 _**me**_ ... https://www.linkedin.com/in/lailaaleissa/     • <br>
 
 ### 𝕥𝕖𝕔𝕙 𝕤𝕥𝕒𝕔𝕜
-<div> <img src="https://skillicons.dev/icons?i=js,css,html,prettier,react,github,gitlab,nodejs,react,jest,jenkins,notion,docker,npm,figma,vscode,postman,aws,&perline=4" /> </div> <br>
+<div> <img src="https://skillicons.dev/icons?i=js,css,html,prettier,react,github,gitlab,nodejs,jest,jenkins,notion,docker,npm,figma,vscode,postman,aws,&perline=4" /> </div> <br>
 
 ### 𝕤𝕥𝕒𝕥𝕤
 <p align="centre">
