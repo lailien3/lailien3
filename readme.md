@@ -78,18 +78,16 @@
   <a href="https://www.instagram.com/lailien3/">
     <img src="https://img.shields.io/badge/Instagram-FF8896?style=for-the-badge&logo=instagram&logoColor=872429" />
   </a>&nbsp;&nbsp;
-  <a href="https://open.spotify.com/user/11101351403">
-    <img src="https://img.shields.io/badge/Spotify-A4303F?style=for-the-badge&logo=spotify&logoColor=ACE1AF" />
-  </a>&nbsp;&nbsp;
 </p>
 
-<div align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lailien3/lailien3/main/dist/pet.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lailien3/lailien3/main/dist/pet-light.svg">
-  <img alt="my github pet" src="https://raw.githubusercontent.com/lailien3/lailien3/main/dist/pet.svg" width="100%">
-</picture>
-</div>
+<p align="center">
+  <a href="https://open.spotify.com/user/11101351403">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lailien3/lailien3/vinilo/vinilo-dark.svg">
+      <img src="https://raw.githubusercontent.com/lailien3/lailien3/vinilo/vinilo.svg" width="400">
+    </picture>
+  </a>
+</p>
 
 <h2 align="center"><img src="assets/decor-connect-left.png" height="25" />𝕔𝕣𝕖𝕕𝕚𝕥𝕤 <img src="assets/decor-connect-right.png" height="25" /></h2>
 
@@ -110,5 +108,15 @@
     🐱 github pet by <a href="https://github.com/prsdx">prsdx</a> — <a href="https://github.com/prsdx/YourTomo">YourTomo</a>
     <br>
     🔥 streak stats by <a href="https://github.com/DenverCoder1/github-readme-streak-stats">github-readme-streak-stats</a>
+    <br>
+    🎵 now playing card by <a href="https://github.com/icortesb">icortesb</a> — <a href="https://github.com/icortesb/vinilo">vinilo</a>
   </sub>
 </p>
+
+<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lailien3/lailien3/main/dist/pet.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lailien3/lailien3/main/dist/pet-light.svg">
+  <img alt="my github pet" src="https://raw.githubusercontent.com/lailien3/lailien3/main/dist/pet.svg" width="100%">
+</picture>
+</div>

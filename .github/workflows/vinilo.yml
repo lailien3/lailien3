@@ -1,0 +1,19 @@
+name: vinilo
+on:
+  schedule: [{ cron: "*/15 * * * *" }]
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  card:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: icortesb/vinilo@v1
+        with:
+          client-id: ${{ secrets.SPOTIFY_CLIENT_ID }}
+          client-secret: ${{ secrets.SPOTIFY_CLIENT_SECRET }}
+          refresh-token: ${{ secrets.SPOTIFY_REFRESH_TOKEN }}
+          publish-to: vinilo
