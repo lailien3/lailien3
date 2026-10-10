@@ -24,6 +24,11 @@
   </a> 
 </p> <br>
 
+ <p align="center">
+   <a href="https://github.com/lailien3"> 
+     <img width="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=tayyabadev&show_icons=true&locale=en&layout=demo&theme=Onedark&hide_border=true" /> 
+   </a>  
+ </p> <br>
 
 ### 𝕔𝕠𝕟𝕟𝕖𝕔𝕥
 
