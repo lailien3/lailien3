@@ -95,7 +95,7 @@
 
 <p align="center">
   <sub>
-    🎨 color palette from <a href="https://coolors.co/ace1af-63b481-35694c-2b523c-ff8896-cb505f-a4303f-872429">coolors.co</a>
+    🎨 custom color palette, compiled with <a href="https://coolors.co/ace1af-63b481-35694c-2b523c-ff8896-cb505f-a4303f-872429">coolors.co</a>
     <br>
     💡 ascii name idea inspired by <a href="https://github.com/tayyabadev/tayyabadev">tayyabadev</a>'s profile (styled with <a href="http://www.figlet.org/">figlet</a>'s "isometric1" font by Kent Nassen)
     <br>
