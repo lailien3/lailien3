@@ -12,39 +12,50 @@
 
 <h2 align="center">°.࿔*:･°❀⋆.ೃ࿔*:･𝕥𝕖𝕔𝕙 𝕤𝕥𝕒𝕔𝕜 ･:*࿔ೃ.⋆❀°･:*࿔.°</h2>
 
-<p align="center"><img src="https://img.shields.io/badge/languages-4F7942?style=for-the-badge&logoColor=F0EAD6" /></p>
-<p align="center">
-  <img src="https://cdn.simpleicons.org/javascript/4F7942" width="48" height="48" />&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/html5/4F7942" width="48" height="48" />&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/css/4F7942" width="48" height="48" />
-</p><br>
+<table>
+<tr>
+<td width="50%" align="center" valign="top">
 
-<p align="center"><img src="https://img.shields.io/badge/frameworks%20%26%20libraries-93C572?style=for-the-badge&logoColor=414A4C" /></p>
-<p align="center">
-  <img src="https://cdn.simpleicons.org/react/93C572" width="48" height="48" />&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/nodedotjs/93C572" width="48" height="48" />&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/jest/93C572" width="48" height="48" />&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/prettier/93C572" width="48" height="48" />
-</p><br>
+<img src="https://img.shields.io/badge/languages-4F7942?style=for-the-badge&logoColor=F0EAD6" /><br><br>
+<img src="https://cdn.simpleicons.org/javascript/4F7942" width="48" height="48" />&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/html5/4F7942" width="48" height="48" />&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/css/4F7942" width="48" height="48" />
 
-<p align="center"><img src="https://img.shields.io/badge/cloud%20%26%20devops-414A4C?style=for-the-badge&logoColor=F0EAD6" /></p>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=aws" width="48" height="48" />&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/docker/414A4C" width="48" height="48" />&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/jenkins/414A4C" width="48" height="48" />
-</p><br>
+</td>
+<td width="50%" align="center" valign="top">
 
-<p align="center"><img src="https://img.shields.io/badge/tools%20%26%20platforms-414A4C?style=for-the-badge&logoColor=F0EAD6" /></p>
-<p align="center">
-  <img src="https://cdn.simpleicons.org/github/414A4C" width="48" height="48" />&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/gitlab/414A4C" width="48" height="48" />&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/npm/414A4C" width="48" height="48" />&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/figma/414A4C" width="48" height="48" />&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" />&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/postman/414A4C" width="48" height="48" />&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/notion/414A4C" width="48" height="48" />&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/homebrew/414A4C" width="48" height="48" />
-</p><br>
+<img src="https://img.shields.io/badge/frameworks%20%26%20libraries-93C572?style=for-the-badge&logoColor=414A4C" /><br><br>
+<img src="https://cdn.simpleicons.org/react/93C572" width="48" height="48" />&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/nodedotjs/93C572" width="48" height="48" />&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/jest/93C572" width="48" height="48" />&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/prettier/93C572" width="48" height="48" />
+
+</td>
+</tr>
+<tr>
+<td width="50%" align="center" valign="top">
+
+<img src="https://img.shields.io/badge/cloud%20%26%20devops-414A4C?style=for-the-badge&logoColor=F0EAD6" /><br><br>
+<img src="https://skillicons.dev/icons?i=aws" width="48" height="48" />&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/docker/414A4C" width="48" height="48" />&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/jenkins/414A4C" width="48" height="48" />
+
+</td>
+<td width="50%" align="center" valign="top">
+
+<img src="https://img.shields.io/badge/tools%20%26%20platforms-414A4C?style=for-the-badge&logoColor=F0EAD6" /><br><br>
+<img src="https://cdn.simpleicons.org/github/414A4C" width="48" height="48" />&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/gitlab/414A4C" width="48" height="48" />&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/npm/414A4C" width="48" height="48" />&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/figma/414A4C" width="48" height="48" />&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" />&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/postman/414A4C" width="48" height="48" />&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/notion/414A4C" width="48" height="48" />&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/homebrew/414A4C" width="48" height="48" />
+
+</td>
+</tr>
+</table>
 
 <h2 align="center">°.࿔*:･°❀⋆.ೃ࿔*:･𝕤𝕥𝕒𝕥𝕤 ･:*࿔ೃ.⋆❀°･:*࿔.°</h2>
 
