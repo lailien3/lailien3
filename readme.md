@@ -10,18 +10,9 @@
 
 𝕥𝕖𝕔𝕙 𝕤𝕥𝕒𝕔𝕜
 
-𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸
-HTML5 CSS3 JavaScript TypeScript Vue.js Nuxt React.js Next.js
-
-Less Sass Stylus TailwindCSS UnoCSS WindiCSS
-
-Webpack Rollup Vite ESlint Prettier Git GitLab VS Code
-
-Netlify Vercel Railway Render
-
 
 
 𝕔𝕠𝕟𝕟𝕖𝕔𝕥
-<div align="center">
-    <a href="https://www.linkedin.com/in/laila3/" target="_blank"><img src="https://img.shields.io/badge/-Laila%20Aleissa-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-</div>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/laila3/)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/lailien3/)
+
