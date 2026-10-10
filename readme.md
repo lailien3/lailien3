@@ -12,11 +12,12 @@
 
 <h2 align="center">°.࿔*:･°❀⋆.ೃ࿔*:･𝕥𝕖𝕔𝕙 𝕤𝕥𝕒𝕔𝕜 ･:*࿔ೃ.⋆❀°･:*࿔.°</h2>
 
+<div align="center">
 <table>
 <tr>
 <td width="50%" align="center" valign="top">
 
-<img src="https://img.shields.io/badge/languages-FF8896?style=for-the-badge&logoColor=8A2B2F" /><br><br>
+<img src="https://img.shields.io/badge/languages-FF8896?style=for-the-badge&logoColor=872429" /><br><br>
 <img src="https://cdn.simpleicons.org/javascript/FF8896" width="48" height="48" />&nbsp;&nbsp;
 <img src="https://cdn.simpleicons.org/html5/FF8896" width="48" height="48" />&nbsp;&nbsp;
 <img src="https://cdn.simpleicons.org/css/FF8896" width="48" height="48" />
@@ -72,7 +73,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-35694C?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHRleHQgeD0iMTIiIHk9IjE3IiBmb250LWZhbWlseT0iQXJpYWwsSGVsdmV0aWNhLHNhbnMtc2VyaWYiIGZvbnQtc2l6ZT0iMTQiIGZvbnQtd2VpZ2h0PSI3MDAiIGZpbGw9IiNBQ0UxQUYiIHRleHQtYW5jaG9yPSJtaWRkbGUiPmluPC90ZXh0Pjwvc3ZnPg==" />
   </a>&nbsp;&nbsp;
   <a href="https://www.instagram.com/lailien3/">
-    <img src="https://img.shields.io/badge/Instagram-FF8896?style=for-the-badge&logo=instagram&logoColor=8A2B2F" />
+    <img src="https://img.shields.io/badge/Instagram-FF8896?style=for-the-badge&logo=instagram&logoColor=872429" />
   </a>&nbsp;&nbsp;
   <a href="https://open.spotify.com/user/11101351403">
     <img src="https://img.shields.io/badge/Spotify-A4303F?style=for-the-badge&logo=spotify&logoColor=ACE1AF" />
