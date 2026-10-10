@@ -84,3 +84,16 @@
 </p>
 
 <h3 align="center"><img src="assets/decor-connect-left.png" height="25" />𝕔𝕣𝕖𝕕𝕚𝕥𝕤 <img src="assets/decor-connect-right.png" height="25" /></h3>
+
+<p align="center">
+  <sub>
+    💡 ascii name idea inspired by <a href="https://github.com/tayyabadev/tayyabadev">tayyabadev</a>'s profile (styled with <a href="http://www.figlet.org/">figlet</a>'s "isometric1" font by Kent Nassen)
+    <br>
+    🌳 bonsai code by <a href="https://github.com/egorthinks">egorthinks</a> — <a href="https://github.com/egorthinks/git-bonsai">git-bonsai</a>
+    <br>
+    ⌨️ typing animation by <a href="https://github.com/DenverCoder1/readme-typing-svg">readme-typing-svg</a>
+    <br>
+    ✨ heading fonts generated with <a href="https://fsymbols.com/generators/carty/">fsymbols.com carty generator</a>
+    <br>
+  </sub>
+</p>
