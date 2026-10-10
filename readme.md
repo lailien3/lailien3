@@ -65,7 +65,7 @@
 
 <p align="center">
   <a href="https://github.com/lailien3">
-    <img width="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=lailien3&hide_border=true&background=35694C&ring=872429&fire=CB505F&currStreakLabel=63B481&sideLabels=63B481&currStreakNum=ACE1AF&sideNums=ACE1AF&dates=FF8896" />
+    <img width="75%" src="https://github-readme-streak-stats.herokuapp.com/?user=lailien3&hide_border=true&background=35694C&ring=872429&fire=CB505F&currStreakLabel=63B481&sideLabels=63B481&currStreakNum=ACE1AF&sideNums=ACE1AF&dates=FF8896" />
   </a>
 </p>
 
