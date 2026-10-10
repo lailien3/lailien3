@@ -1,6 +1,6 @@
-<div align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:4F7942,100:93C572&height=150&section=header&text=laila%20aleissa&fontColor=F0EAD6&fontSize=38&animation=fadeIn" alt="header" />
 
-# 𝕝𝕒𝕚𝕝𝕒 𝕒𝕝𝕖𝕚𝕤𝕤𝕒
+<div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=4F7942&center=true&vCenter=true&width=460&lines=Software+Developer+%40+DEFRA;Node.js+%7C+AWS;Building+things+one+commit+at+a+time" alt="Typing SVG" />
 
@@ -30,28 +30,28 @@ Connecting to LinkedIn... done ✅
 
 ### 𝕥𝕖𝕔𝕙 𝕤𝕥𝕒𝕔𝕜
 
-**𝕝𝕒𝕟𝕘𝕦𝕒𝕘𝕖𝕤**
+<p align="center"><img src="https://img.shields.io/badge/languages-4F7942?style=for-the-badge&logoColor=F0EAD6" /></p>
 <div align="center">
   <img src="https://skillicons.dev/icons?i=js,html,css&perline=4" />
 </div>
 
-**𝕗𝕣𝕒𝕞𝕖𝕨𝕠𝕣𝕜𝕤 & 𝕝𝕚𝕓𝕣𝕒𝕣𝕚𝕖𝕤**
+<p align="center"><img src="https://img.shields.io/badge/frameworks%20%26%20libraries-93C572?style=for-the-badge&logoColor=414A4C" /></p>
 <div align="center">
   <img src="https://skillicons.dev/icons?i=react,nodejs,jest,prettier&perline=4" />
 </div>
 
-**𝕔𝕝𝕠𝕦𝕕 & 𝕕𝕖𝕧𝕠𝕡𝕤**
+<p align="center"><img src="https://img.shields.io/badge/cloud%20%26%20devops-414A4C?style=for-the-badge&logoColor=F0EAD6" /></p>
 <div align="center">
   <img src="https://skillicons.dev/icons?i=aws,docker,jenkins&perline=4" />
 </div>
 
-**𝕥𝕠𝕠𝕝𝕤 & 𝕡𝕝𝕒𝕥𝕗𝕠𝕣𝕞𝕤**
+<p align="center"><img src="https://img.shields.io/badge/tools%20%26%20platforms-F0EAD6?style=for-the-badge&logoColor=414A4C" /></p>
 <div align="center">
   <img src="https://skillicons.dev/icons?i=github,gitlab,npm,figma,vscode,postman,notion&perline=4" />
 </div>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=lailien3&theme=onedark&no-frame=true&row=1&column=6&margin-w=8" />
+  <img src="https://github-profile-trophy.vercel.app/?username=lailien3&theme=matrix&no-frame=true&row=1&column=6&margin-w=8" />
 </p>
 
 ### 𝕤𝕥𝕒𝕥𝕤
@@ -77,3 +77,5 @@ Connecting to LinkedIn... done ✅
     <img src="https://img.shields.io/badge/Instagram-93C572?style=for-the-badge&logo=instagram&logoColor=414A4C" />
   </a>
 </p>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:414A4C,100:4F7942&height=100&section=footer" alt="footer" />
