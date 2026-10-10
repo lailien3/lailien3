@@ -22,3 +22,6 @@ Netlify Vercel Railway Render
 
 
 𝕔𝕠𝕟𝕟𝕖𝕔𝕥
+<div align="center">
+    <a href="https://www.linkedin.com/in/laila3/" target="_blank"><img src="https://img.shields.io/badge/-Tayyaba%20Tabassum-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+</div>
