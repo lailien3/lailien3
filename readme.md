@@ -1,26 +1,79 @@
-## 𝕝𝕒𝕚𝕝𝕒 𝕒𝕝𝕖𝕚𝕤𝕤𝕒
+<div align="center">
+
+# 𝕝𝕒𝕚𝕝𝕒 𝕒𝕝𝕖𝕚𝕤𝕤𝕒
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=4F7942&center=true&vCenter=true&width=460&lines=Software+Developer+%40+DEFRA;Node.js+%7C+AWS;Building+things+one+commit+at+a+time" alt="Typing SVG" />
+
+</div>
 
 ### 𝕒𝕓𝕠𝕦𝕥 𝕞𝕖
-•     🔭 _**I am a**_ ... Software Developer @ DEFRA     • <br>
-•     🌱 _**focus**_ ... Node.js  |  AWS     • <br>
-•     📫 _**me**_ ... https://www.linkedin.com/in/lailaaleissa/     • <br>
+
+- 🔭 **I am a** ... Software Developer @ DEFRA
+- 🌱 **focus** ... Node.js&nbsp;&nbsp;|&nbsp;&nbsp;AWS
+- 📫 **reach me** ... [LinkedIn](https://www.linkedin.com/in/lailaaleissa/)
+
+```bash
+laila@github:~$ whoami
+> Laila Aleissa — Software Developer @ DEFRA
+
+laila@github:~$ cat tech_stack.json
+{
+  "languages": ["JavaScript", "HTML", "CSS"],
+  "focus": ["Node.js", "AWS"],
+  "currently_learning": "...always something new",
+  "status": "open to collab ✅"
+}
+
+laila@github:~$ ./connect.sh
+Connecting to LinkedIn... done ✅
+```
 
 ### 𝕥𝕖𝕔𝕙 𝕤𝕥𝕒𝕔𝕜
-<div> <img src="https://skillicons.dev/icons?i=js,css,html,prettier,react,github,gitlab,nodejs,jest,jenkins,notion,docker,npm,figma,vscode,postman,aws,&perline=4" /> </div> <br>
+
+**languages**
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=js,html,css&perline=4" />
+</div>
+
+**frameworks & libraries**
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=react,nodejs,jest,prettier&perline=4" />
+</div>
+
+**cloud & devops**
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=aws,docker,jenkins&perline=4" />
+</div>
+
+**tools & platforms**
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=github,gitlab,npm,figma,vscode,postman,notion&perline=4" />
+</div>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=lailien3&theme=onedark&no-frame=true&row=1&column=6&margin-w=8" />
+</p>
 
 ### 𝕤𝕥𝕒𝕥𝕤
-<p align="centre">
-        <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=lailien3&show_icons=true&theme=onedark&include_all_commits=true&count_private=true&hide_border=true"/>
-        <img height="130em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=lailien3&langs_count=12&layout=compact&langs_count=8&theme=onedark&include_all_commits=true&count_private=true&hide_border=true" />
-</p> <br>
 
-<p align="centre">
-    <a href="https://github.com/lailien3"> 
-     <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=tayyabadev&show_icons=true&locale=en&layout=demo&theme=Onedark&hide_border=true" /> 
-   </a>  
-</p> <br>
+<p align="center">
+  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=lailien3&show_icons=true&theme=onedark&include_all_commits=true&count_private=true&hide_border=true&title_color=93C572&icon_color=4F7942&text_color=F0EAD6&bg_color=414A4C"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=lailien3&layout=compact&langs_count=8&theme=onedark&hide_border=true&title_color=93C572&text_color=F0EAD6&bg_color=414A4C" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/lailien3">
+    <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=lailien3&hide_border=true&background=414A4C&ring=4F7942&fire=93C572&currStreakLabel=F0EAD6&sideLabels=F0EAD6&currStreakNum=F0EAD6&sideNums=F0EAD6&dates=F0EAD6" />
+  </a>
+</p>
 
 ### 𝕔𝕠𝕟𝕟𝕖𝕔𝕥
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/laila3/)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/lailien3/)
+<p align="center">
+  <a href="https://www.linkedin.com/in/lailaaleissa/">
+    <img src="https://img.shields.io/badge/LinkedIn-4F7942?style=for-the-badge&logo=linkedin&logoColor=F0EAD6" />
+  </a>
+  <a href="https://www.instagram.com/lailien3/">
+    <img src="https://img.shields.io/badge/Instagram-93C572?style=for-the-badge&logo=instagram&logoColor=414A4C" />
+  </a>
+</p>
