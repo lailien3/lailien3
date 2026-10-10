@@ -33,25 +33,9 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=4F7942&center=true&vCenter=true&width=460&lines=Software+Developer+%40+DEFRA;Node.js+%7C+AWS;Building+things+one+commit+at+a+time" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=4F7942&center=true&vCenter=true&width=460&lines=Software+Developer+%40+DEFRA" alt="Typing SVG" />
 
 </div>
-
-### 𝕒𝕓𝕠𝕦𝕥 𝕞𝕖
-
-```bash
-laila@github:~$ whoami
-> Laila Aleissa — Software Developer @ DEFRA
-
-laila@github:~$ cat tech_stack.json
-{
-  "mainLanguages": ["JavaScript", "HTML", "CSS"],
-  "focus": ["AWS"],
-  "status": "trying..."
-}
-
-laila@github:~$ ./connect.sh
-```
 
 ### 𝕥𝕖𝕔𝕙 𝕤𝕥𝕒𝕔𝕜
 
