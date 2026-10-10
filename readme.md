@@ -12,10 +12,8 @@
 
 ### 𝕤𝕥𝕒𝕥𝕤
 <p align="centre">
-    <a href="https://github.com/lailien3">
         <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=lailien3&show_icons=true&theme=onedark&include_all_commits=true&count_private=true&hide_border=true"/>
         <img height="130em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=lailien3&langs_count=12&layout=compact&langs_count=8&theme=onedark&include_all_commits=true&count_private=true&hide_border=true" />
-    </a>
 </p> <br>
 
 <p align="centre">
