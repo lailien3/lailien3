@@ -82,3 +82,5 @@
     <img src="https://img.shields.io/badge/Spotify-A4303F?style=for-the-badge&logo=spotify&logoColor=ACE1AF" />
   </a>&nbsp;&nbsp;
 </p>
+
+<h3 align="center"><img src="assets/decor-connect-left.png" height="30" />𝕔𝕣𝕖𝕕𝕚𝕥𝕤<img src="assets/decor-connect-right.png" height="30" /></h3>
