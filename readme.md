@@ -10,7 +10,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=4F7942&center=true&vCenter=true&width=460&lines=Software+Developer+%40+DEFRA" alt="Typing SVG" />
 </div>
 
-## 𝕥𝕖𝕔𝕙 𝕤𝕥𝕒𝕔𝕜
+<h2 align="center">°.࿔*:･°❀⋆.ೃ࿔*:･𝕥𝕖𝕔𝕙 𝕤𝕥𝕒𝕔𝕜 ･:*࿔ೃ.⋆❀°･:*࿔.°</h2>
 
 <p align="center"><img src="https://img.shields.io/badge/languages-4F7942?style=for-the-badge&logoColor=F0EAD6" /></p>
 <p align="center">
@@ -46,7 +46,7 @@
   <img src="https://cdn.simpleicons.org/homebrew/414A4C" width="48" height="48" />
 </p><br>
 
-## 𝕤𝕥𝕒𝕥𝕤
+<h2 align="center">°.࿔*:･°❀⋆.ೃ࿔*:･𝕤𝕥𝕒𝕥𝕤 ･:*࿔ೃ.⋆❀°･:*࿔.°</h2>
 
 <p align="center">
   <a href="https://github.com/lailien3">
@@ -54,7 +54,7 @@
   </a>
 </p>
 
-## 𝕔𝕠𝕟𝕟𝕖𝕔𝕥
+<h2 align="center">°.࿔*:･°❀⋆.ೃ࿔*:･𝕔𝕠𝕟𝕟𝕖𝕔𝕥 ･:*࿔ೃ.⋆❀°･:*࿔.°</h2>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/lailaaleissa/">
