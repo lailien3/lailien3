@@ -31,7 +31,7 @@
 
 <p align="center"><img src="https://img.shields.io/badge/tools%20%26%20platforms-F0EAD6?style=for-the-badge&logoColor=414A4C" /></p>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=github,gitlab,npm,figma,vscode,postman,notion&perline=4" />
+  <img src="https://skillicons.dev/icons?i=github,gitlab,npm,figma,vscode,postman,notion,homebrew&perline=4" />
 </div><br>
 
 <p align="center">
