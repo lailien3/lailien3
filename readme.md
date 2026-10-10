@@ -7,7 +7,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=35694C&center=true&vCenter=true&width=460&lines=Software+Developer+%40+DEFRA" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=63B481&center=true&vCenter=true&width=460&lines=Software+Developer+%40+DEFRA" alt="Typing SVG" />
 </div>
 
 <h2 align="center">°.࿔*:･°❀⋆.ೃ࿔*:･𝕥𝕖𝕔𝕙 𝕤𝕥𝕒𝕔𝕜 ･:*࿔ೃ.⋆❀°･:*࿔.°</h2>
