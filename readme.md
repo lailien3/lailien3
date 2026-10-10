@@ -38,7 +38,7 @@
 <td width="50%" align="center" valign="top">
 
 <img src="https://img.shields.io/badge/cloud%20%26%20devops-A4303F?style=for-the-badge&logoColor=ACE1AF" /><br><br>
-<img src="https://skillicons.dev/icons?i=aws" width="48" height="48" />&nbsp;&nbsp;
+<img src="assets/aws-mono.png" width="48" height="48" />&nbsp;&nbsp;
 <img src="https://cdn.simpleicons.org/docker/A4303F" width="48" height="48" />&nbsp;&nbsp;
 <img src="https://cdn.simpleicons.org/jenkins/A4303F" width="48" height="48" />
 
@@ -50,7 +50,7 @@
 <img src="https://cdn.simpleicons.org/gitlab/872429" width="48" height="48" />&nbsp;&nbsp;
 <img src="https://cdn.simpleicons.org/npm/872429" width="48" height="48" />&nbsp;&nbsp;
 <img src="https://cdn.simpleicons.org/figma/872429" width="48" height="48" />&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" />&nbsp;&nbsp;
+<img src="assets/vscode-mono.png" width="48" height="48" />&nbsp;&nbsp;
 <img src="https://cdn.simpleicons.org/postman/872429" width="48" height="48" />&nbsp;&nbsp;
 <img src="https://cdn.simpleicons.org/notion/872429" width="48" height="48" />&nbsp;&nbsp;
 <img src="https://cdn.simpleicons.org/homebrew/872429" width="48" height="48" />
