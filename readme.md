@@ -83,6 +83,14 @@
   </a>&nbsp;&nbsp;
 </p>
 
+<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lailien3/lailien3/main/dist/pet.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lailien3/lailien3/main/dist/pet-light.svg">
+  <img alt="my github pet" src="https://raw.githubusercontent.com/lailien3/lailien3/main/dist/pet.svg" width="100%">
+</picture>
+</div>
+
 <h2 align="center"><img src="assets/decor-connect-left.png" height="25" />𝕔𝕣𝕖𝕕𝕚𝕥𝕤 <img src="assets/decor-connect-right.png" height="25" /></h2>
 
 <p align="center">
@@ -96,6 +104,8 @@
     🏷️ badges by <a href="https://shields.io">shields.io</a>, icons by <a href="https://simpleicons.org">Simple Icons</a> and <a href="https://skillicons.dev">skillicons.dev</a>
     <br>
     ✨ heading fonts generated with <a href="https://fsymbols.com/generators/carty/">fsymbols.com carty generator</a>
+    <br>
+    🐱 github pet by <a href="https://github.com/prsdx">prsdx</a> — <a href="https://github.com/prsdx/YourTomo">YourTomo</a>
     <br>
     🔥 streak stats by <a href="https://github.com/DenverCoder1/github-readme-streak-stats">github-readme-streak-stats</a>
   </sub>
