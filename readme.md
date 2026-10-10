@@ -15,6 +15,9 @@
        <img src="https://skillicons.dev/icons?i=js,css,html,&perline=4" /> 
 </div>
 </a>
+<div align="center">
+       <img src="https://skillicons.dev/icons?i=git,github,gitlab,npm,figma,vscode,&perline=4" /> 
+</div>
 
 ### 𝕔𝕠𝕟𝕟𝕖𝕔𝕥
 
