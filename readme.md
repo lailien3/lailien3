@@ -16,42 +16,42 @@
 <tr>
 <td width="50%" align="center" valign="top">
 
-<img src="https://img.shields.io/badge/languages-ACE1AF?style=for-the-badge&logoColor=8A2B2F" /><br><br>
-<img src="https://cdn.simpleicons.org/javascript/ACE1AF" width="48" height="48" />&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/html5/ACE1AF" width="48" height="48" />&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/css/ACE1AF" width="48" height="48" />
+<img src="https://img.shields.io/badge/languages-FF8896?style=for-the-badge&logoColor=8A2B2F" /><br><br>
+<img src="https://cdn.simpleicons.org/javascript/FF8896" width="48" height="48" />&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/html5/FF8896" width="48" height="48" />&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/css/FF8896" width="48" height="48" />
 
 </td>
 <td width="50%" align="center" valign="top">
 
-<img src="https://img.shields.io/badge/frameworks%20%26%20libraries-63B481?style=for-the-badge&logoColor=ACE1AF" /><br><br>
-<img src="https://cdn.simpleicons.org/react/63B481" width="48" height="48" />&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/nodedotjs/63B481" width="48" height="48" />&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/jest/63B481" width="48" height="48" />&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/prettier/63B481" width="48" height="48" />
+<img src="https://img.shields.io/badge/frameworks%20%26%20libraries-CB505F?style=for-the-badge&logoColor=ACE1AF" /><br><br>
+<img src="https://cdn.simpleicons.org/react/CB505F" width="48" height="48" />&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/nodedotjs/CB505F" width="48" height="48" />&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/jest/CB505F" width="48" height="48" />&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/prettier/CB505F" width="48" height="48" />
 
 </td>
 </tr>
 <tr>
 <td width="50%" align="center" valign="top">
 
-<img src="https://img.shields.io/badge/cloud%20%26%20devops-35694C?style=for-the-badge&logoColor=ACE1AF" /><br><br>
+<img src="https://img.shields.io/badge/cloud%20%26%20devops-A4303F?style=for-the-badge&logoColor=ACE1AF" /><br><br>
 <img src="https://skillicons.dev/icons?i=aws" width="48" height="48" />&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/docker/35694C" width="48" height="48" />&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/jenkins/35694C" width="48" height="48" />
+<img src="https://cdn.simpleicons.org/docker/A4303F" width="48" height="48" />&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/jenkins/A4303F" width="48" height="48" />
 
 </td>
 <td width="50%" align="center" valign="top">
 
-<img src="https://img.shields.io/badge/tools%20%26%20platforms-CB505F?style=for-the-badge&logoColor=ACE1AF" /><br><br>
-<img src="https://cdn.simpleicons.org/github/CB505F" width="48" height="48" />&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/gitlab/CB505F" width="48" height="48" />&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/npm/CB505F" width="48" height="48" />&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/figma/CB505F" width="48" height="48" />&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/tools%20%26%20platforms-872429?style=for-the-badge&logoColor=ACE1AF" /><br><br>
+<img src="https://cdn.simpleicons.org/github/872429" width="48" height="48" />&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/gitlab/872429" width="48" height="48" />&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/npm/872429" width="48" height="48" />&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/figma/872429" width="48" height="48" />&nbsp;&nbsp;
 <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" />&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/postman/CB505F" width="48" height="48" />&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/notion/CB505F" width="48" height="48" />&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/homebrew/CB505F" width="48" height="48" />
+<img src="https://cdn.simpleicons.org/postman/872429" width="48" height="48" />&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/notion/872429" width="48" height="48" />&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/homebrew/872429" width="48" height="48" />
 
 </td>
 </tr>
@@ -61,7 +61,7 @@
 
 <p align="center">
   <a href="https://github.com/lailien3">
-    <img width="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=lailien3&hide_border=true&background=35694C&ring=35694C&fire=FF8896&currStreakLabel=ACE1AF&sideLabels=ACE1AF&currStreakNum=ACE1AF&sideNums=ACE1AF&dates=ACE1AF" />
+    <img width="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=lailien3&hide_border=true&background=35694C&ring=872429&fire=CB505F&currStreakLabel=63B481&sideLabels=63B481&currStreakNum=ACE1AF&sideNums=ACE1AF&dates=FF8896" />
   </a>
 </p>
 
