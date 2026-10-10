@@ -2,15 +2,9 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=4F7942&center=true&vCenter=true&width=460&lines=Software+Developer+%40+DEFRA;Node.js+%7C+AWS;Building+things+one+commit+at+a+time" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=4F7942&center=true&vCenter=true&width=460&lines=Software+Developer+%40+DEFRA;" alt="Typing SVG" />
 
 </div>
-
-### 𝕒𝕓𝕠𝕦𝕥 𝕞𝕖
-
-- 🔭 **I am a** ... Software Developer @ DEFRA
-- 🌱 **focus** ... Node.js&nbsp;&nbsp;|&nbsp;&nbsp;AWS
-- 📫 **reach me** ... [LinkedIn](https://www.linkedin.com/in/lailaaleissa/)
 
 ```bash
 laila@github:~$ whoami
@@ -56,40 +50,10 @@ Connecting to LinkedIn... done ✅
 
 ### 𝕤𝕥𝕒𝕥𝕤
 
-<table>
-<tr>
-<td width="38%" valign="top">
-
-```text
-        .-----------.
-       /  .-------.  \
-      /  /         \  \
-     |  |  laila.js |  |
-     |  |            |  |
-     |  |  > build() |  |
-     |  |  > ship()  |  |
-     |  |  > repeat()|  |
-     |  |            |  |
-      \  \         /  /
-       \  '-------'  /
-        '-----------'
-       ___________________
-      '-------------------'
-```
-
-</td>
-<td width="62%" valign="top">
-
 <p align="center">
-  <img height="165em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=lailien3&show_icons=true&theme=onedark&include_all_commits=true&count_private=true&hide_border=true&title_color=93C572&icon_color=4F7942&text_color=F0EAD6&bg_color=414A4C"/>
+  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=lailien3&show_icons=true&theme=onedark&include_all_commits=true&count_private=true&hide_border=true&title_color=93C572&icon_color=4F7942&text_color=F0EAD6&bg_color=414A4C"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=lailien3&layout=compact&langs_count=8&theme=onedark&hide_border=true&title_color=93C572&text_color=F0EAD6&bg_color=414A4C" />
 </p>
-<p align="center">
-  <img height="165em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=lailien3&layout=compact&langs_count=8&theme=onedark&hide_border=true&title_color=93C572&text_color=F0EAD6&bg_color=414A4C" />
-</p>
-
-</td>
-</tr>
-</table>
 
 <p align="center">
   <a href="https://github.com/lailien3">
@@ -107,5 +71,3 @@ Connecting to LinkedIn... done ✅
     <img src="https://img.shields.io/badge/Instagram-93C572?style=for-the-badge&logo=instagram&logoColor=414A4C" />
   </a>
 </p>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:414A4C,100:4F7942&height=100&section=footer" alt="footer" />
