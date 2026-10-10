@@ -5,7 +5,6 @@
 •     🌱 _**focus**_ ... Node.js  |  AWS     • <br>
 •     📫 _**me**_ ... https://www.linkedin.com/in/lailaaleissa/     • <br>
 
-
 ### 𝕥𝕖𝕔𝕙 𝕤𝕥𝕒𝕔𝕜
 <div> <img src="https://skillicons.dev/icons?i=js,css,html,&perline=4" /> </div> <br>
 <div> <img src="https://skillicons.dev/icons?i=github,gitlab,npm,figma,vscode,postman,docker,notion,&perline=4" /> </div> <br>
