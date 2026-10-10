@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img src="output/bonsai-growth.gif" width="70%" alt="my git-bonsai" align="center" />
+  <img src="output/bonsai-growth.gif" width="60%" alt="my git-bonsai" align="center" />
 </div>
 
 <div align="center">
