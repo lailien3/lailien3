@@ -10,11 +10,9 @@
 
 ### 𝕥𝕖𝕔𝕙 𝕤𝕥𝕒𝕔𝕜
 
-<a href="https://github.com/lailien3">
 <div align="center">
        <img src="https://skillicons.dev/icons?i=js,css,html,&perline=4" /> 
-</div>
-</a>
+</div> <br>
 <div align="center">
        <img src="https://skillicons.dev/icons?i=git,github,gitlab,npm,figma,vscode,&perline=4" /> 
 </div>
