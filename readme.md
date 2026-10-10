@@ -83,7 +83,7 @@
   </a>&nbsp;&nbsp;
 </p>
 
-<h3 align="center"><img src="assets/decor-connect-left.png" height="25" />𝕔𝕣𝕖𝕕𝕚𝕥𝕤 <img src="assets/decor-connect-right.png" height="25" /></h3>
+<h2 align="center"><img src="assets/decor-connect-left.png" height="25" />𝕔𝕣𝕖𝕕𝕚𝕥𝕤 <img src="assets/decor-connect-right.png" height="25" /></h2>
 
 <p align="center">
   <sub>
@@ -92,6 +92,8 @@
     🌳 bonsai code by <a href="https://github.com/egorthinks">egorthinks</a> — <a href="https://github.com/egorthinks/git-bonsai">git-bonsai</a>
     <br>
     ⌨️ typing animation by <a href="https://github.com/DenverCoder1/readme-typing-svg">readme-typing-svg</a>
+    <br>
+    🔥 streak stats by <a href="https://github.com/DenverCoder1/github-readme-streak-stats">github-readme-streak-stats</a>
     <br>
     ✨ heading fonts generated with <a href="https://fsymbols.com/generators/carty/">fsymbols.com carty generator</a>
     <br>
