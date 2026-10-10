@@ -10,7 +10,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=63B481&center=true&vCenter=true&width=460&lines=Software+Developer+%40+DEFRA" alt="Typing SVG" />
 </div>
 
-<h2 align="center">°.࿔*:･°❀⋆.ೃ࿔*:･𝕥𝕖𝕔𝕙 𝕤𝕥𝕒𝕔𝕜 ･:*࿔ೃ.⋆❀°･:*࿔.°</h2>
+<h2 align="center"><font color="#872429">°</font><font color="#FF8896">.</font><font color="#CB505F">࿔</font><font color="#ACE1AF">*</font><font color="#FF8896">:</font><font color="#A4303F">･</font><font color="#FF8896">°</font><font color="#CB505F">❀</font><font color="#35694C">⋆</font><font color="#CB505F">.</font><font color="#35694C">ೃ</font><font color="#A4303F">࿔</font><font color="#63B481">*</font><font color="#A4303F">:</font><font color="#63B481">･</font>𝕥𝕖𝕔𝕙 𝕤𝕥𝕒𝕔𝕜 <font color="#63B481">･</font><font color="#A4303F">:</font><font color="#ACE1AF">*</font><font color="#FF8896">࿔</font><font color="#ACE1AF">ೃ</font><font color="#CB505F">.</font><font color="#FF8896">⋆</font><font color="#CB505F">❀</font><font color="#872429">°</font><font color="#FF8896">･</font><font color="#63B481">:</font><font color="#ACE1AF">*</font><font color="#CB505F">࿔</font><font color="#ACE1AF">.</font><font color="#CB505F">°</font></h2>
 
 <div align="center">
 <table bgcolor="#35694C" cellpadding="3" cellspacing="0"><tr><td>
@@ -61,7 +61,7 @@
 </td></tr></table>
 </div>
 
-<h2 align="center">°.࿔*:･°❀⋆.ೃ࿔*:･𝕤𝕥𝕒𝕥𝕤 ･:*࿔ೃ.⋆❀°･:*࿔.°</h2>
+<h2 align="center"><font color="#872429">°</font><font color="#ACE1AF">.</font><font color="#63B481">࿔</font><font color="#ACE1AF">*</font><font color="#FF8896">:</font><font color="#63B481">･</font><font color="#872429">°</font><font color="#A4303F">❀</font><font color="#35694C">⋆</font><font color="#FF8896">.</font><font color="#A4303F">ೃ</font><font color="#63B481">࿔</font><font color="#A4303F">*</font><font color="#ACE1AF">:</font><font color="#A4303F">･</font>𝕤𝕥𝕒𝕥𝕤 <font color="#63B481">･</font><font color="#A4303F">:</font><font color="#CB505F">*</font><font color="#63B481">࿔</font><font color="#FF8896">ೃ</font><font color="#A4303F">.</font><font color="#FF8896">⋆</font><font color="#872429">❀</font><font color="#CB505F">°</font><font color="#ACE1AF">･</font><font color="#A4303F">:</font><font color="#ACE1AF">*</font><font color="#CB505F">࿔</font><font color="#35694C">.</font><font color="#A4303F">°</font></h2>
 
 <p align="center">
   <a href="https://github.com/lailien3">
@@ -69,7 +69,7 @@
   </a>
 </p>
 
-<h2 align="center">°.࿔*:･°❀⋆.ೃ࿔*:･𝕔𝕠𝕟𝕟𝕖𝕔𝕥 ･:*࿔ೃ.⋆❀°･:*࿔.°</h2>
+<h2 align="center"><font color="#63B481">°</font><font color="#FF8896">.</font><font color="#ACE1AF">࿔</font><font color="#872429">*</font><font color="#FF8896">:</font><font color="#CB505F">･</font><font color="#63B481">°</font><font color="#ACE1AF">❀</font><font color="#63B481">⋆</font><font color="#ACE1AF">.</font><font color="#CB505F">ೃ</font><font color="#A4303F">࿔</font><font color="#35694C">*</font><font color="#ACE1AF">:</font><font color="#35694C">･</font>𝕔𝕠𝕟𝕟𝕖𝕔𝕥 <font color="#CB505F">･</font><font color="#35694C">:</font><font color="#872429">*</font><font color="#35694C">࿔</font><font color="#872429">ೃ</font><font color="#A4303F">.</font><font color="#872429">⋆</font><font color="#CB505F">❀</font><font color="#ACE1AF">°</font><font color="#CB505F">･</font><font color="#63B481">:</font><font color="#872429">*</font><font color="#ACE1AF">࿔</font><font color="#35694C">.</font><font color="#ACE1AF">°</font></h2>
 
 <p align="center">
   <a href="www.linkedin.com/in/laila3">
