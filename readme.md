@@ -19,18 +19,18 @@
 <td width="50%" align="center" valign="top">
 
 <img src="https://img.shields.io/badge/languages-FF8896?style=for-the-badge&logoColor=872429" /><br><br>
-<img src="https://cdn.simpleicons.org/javascript/FF8896" width="48" height="48" />&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/html5/FF8896" width="48" height="48" />&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/css/FF8896" width="48" height="48" />
+<img src="https://cdn.simpleicons.org/javascript/F7DF1E" width="48" height="48" />&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/html5/E34F26" width="48" height="48" />&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/css/1572B6" width="48" height="48" />
 
 </td>
 <td width="50%" align="center" valign="top">
 
 <img src="https://img.shields.io/badge/frameworks%20%26%20libraries-CB505F?style=for-the-badge&logoColor=ACE1AF" /><br><br>
-<img src="https://cdn.simpleicons.org/react/CB505F" width="48" height="48" />&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/nodedotjs/CB505F" width="48" height="48" />&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/jest/CB505F" width="48" height="48" />&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/prettier/CB505F" width="48" height="48" />
+<img src="https://cdn.simpleicons.org/react/61DAFB" width="48" height="48" />&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/nodedotjs/339933" width="48" height="48" />&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/git/F05032" width="48" height="48" />&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/gnometerminal/4A86CF" width="48" height="48" />
 
 </td>
 </tr>
@@ -38,22 +38,26 @@
 <td width="50%" align="center" valign="top">
 
 <img src="https://img.shields.io/badge/cloud%20%26%20devops-A4303F?style=for-the-badge&logoColor=ACE1AF" /><br><br>
-<img src="assets/aws-mono.png" width="48" height="48" />&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/docker/A4303F" width="48" height="48" />&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/jenkins/A4303F" width="48" height="48" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" width="48" height="48" />&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/docker/2496ED" width="48" height="48" />&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/jenkins/D24939" width="48" height="48" />&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/githubactions/2088FF" width="48" height="48" />&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/postgresql/4169E1" width="48" height="48" />&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/redis/DC382D" width="48" height="48" />
 
 </td>
 <td width="50%" align="center" valign="top">
 
 <img src="https://img.shields.io/badge/tools%20%26%20platforms-872429?style=for-the-badge&logoColor=ACE1AF" /><br><br>
-<img src="https://cdn.simpleicons.org/github/872429" width="48" height="48" />&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/gitlab/872429" width="48" height="48" />&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/npm/872429" width="48" height="48" />&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/figma/872429" width="48" height="48" />&nbsp;&nbsp;
-<img src="assets/vscode-mono.png" width="48" height="48" />&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/postman/872429" width="48" height="48" />&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/notion/872429" width="48" height="48" />&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/homebrew/872429" width="48" height="48" />
+<img src="https://cdn.simpleicons.org/github/181717" width="48" height="48" />&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/gitlab/FC6D26" width="48" height="48" />&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/npm/CB3837" width="48" height="48" />&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/figma/F24E1E" width="48" height="48" />&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/notion/000000" width="48" height="48" />&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/postman/FF6C37" width="48" height="48" />&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/jira/0052CC" width="48" height="48" />&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="48" height="48" />&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" width="48" height="48" />
 
 </td>
 </tr>
@@ -78,45 +82,19 @@
   <a href="https://www.instagram.com/lailien3/">
     <img src="https://img.shields.io/badge/Instagram-FF8896?style=for-the-badge&logo=instagram&logoColor=872429" />
   </a>&nbsp;&nbsp;
-</p>
-
-<p align="center">
   <a href="https://open.spotify.com/user/11101351403">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lailien3/lailien3/vinilo/vinilo-dark.svg">
-      <img src="https://raw.githubusercontent.com/lailien3/lailien3/vinilo/vinilo.svg" width="400">
-    </picture>
-  </a>
+    <img src="https://img.shields.io/badge/Spotify-A4303F?style=for-the-badge&logo=spotify&logoColor=ACE1AF" />
+  </a>&nbsp;&nbsp;
 </p>
 
-<h2 align="center"><img src="assets/decor-connect-left.png" height="25" />𝕔𝕣𝕖𝕕𝕚𝕥𝕤 <img src="assets/decor-connect-right.png" height="25" /></h2>
+<h3 align="center"><img src="assets/decor-connect-left.png" height="25" />𝕔𝕣𝕖𝕕𝕚𝕥𝕤 <img src="assets/decor-connect-right.png" height="25" /></h3>
 
 <p align="center">
   <sub>
-    🎨 custom color palette, compiled with <a href="https://coolors.co/ace1af-63b481-35694c-2b523c-ff8896-cb505f-a4303f-872429">coolors.co</a>
-    <br>
     💡 ascii name idea inspired by <a href="https://github.com/tayyabadev/tayyabadev">tayyabadev</a>'s profile (styled with <a href="http://www.figlet.org/">figlet</a>'s "isometric1" font by Kent Nassen)
     <br>
     🌳 bonsai code by <a href="https://github.com/egorthinks">egorthinks</a> — <a href="https://github.com/egorthinks/git-bonsai">git-bonsai</a>
     <br>
-    ⌨️ typing animation by <a href="https://github.com/DenverCoder1/readme-typing-svg">readme-typing-svg</a>
-    <br>
-    🏷️ badges by <a href="https://shields.io">shields.io</a>, icons by <a href="https://simpleicons.org">Simple Icons</a> and <a href="https://skillicons.dev">skillicons.dev</a>
-    <br>
-    ✨ heading fonts generated with <a href="https://fsymbols.com/generators/carty/">fsymbols.com carty generator</a>
-    <br>
-    🐱 github pet by <a href="https://github.com/prsdx">prsdx</a> — <a href="https://github.com/prsdx/YourTomo">YourTomo</a>
-    <br>
-    🔥 streak stats by <a href="https://github.com/DenverCoder1/github-readme-streak-stats">github-readme-streak-stats</a>
-    <br>
-    🎵 now playing card by <a href="https://github.com/icortesb">icortesb</a> — <a href="https://github.com/icortesb/vinilo">vinilo</a>
+
   </sub>
 </p>
-
-<div align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lailien3/lailien3/main/dist/pet.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lailien3/lailien3/main/dist/pet-light.svg">
-  <img alt="my github pet" src="https://raw.githubusercontent.com/lailien3/lailien3/main/dist/pet.svg" width="100%">
-</picture>
-</div>
