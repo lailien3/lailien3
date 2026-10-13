@@ -57,6 +57,7 @@
 <img src="https://cdn.simpleicons.org/postman/FF6C37" width="48" height="48" />&nbsp;&nbsp;
 <img src="https://cdn.simpleicons.org/jira/0052CC" width="48" height="48" />&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="48" height="48" />&nbsp;&nbsp;
+&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" width="48" height="48" />
 
 </td>
@@ -91,10 +92,31 @@
 
 <p align="center">
   <sub>
+    🎨 custom color palette, compiled with <a href="https://coolors.co/ace1af-63b481-35694c-2b523c-ff8896-cb505f-a4303f-872429">coolors.co</a>
+    <br>
     💡 ascii name idea inspired by <a href="https://github.com/tayyabadev/tayyabadev">tayyabadev</a>'s profile (styled with <a href="http://www.figlet.org/">figlet</a>'s "isometric1" font by Kent Nassen)
     <br>
     🌳 bonsai code by <a href="https://github.com/egorthinks">egorthinks</a> — <a href="https://github.com/egorthinks/git-bonsai">git-bonsai</a>
     <br>
+    ⌨️ typing animation by <a href="https://github.com/DenverCoder1/readme-typing-svg">readme-typing-svg</a>
+    <br>
+    🏷️ badges by <a href="https://shields.io">shields.io</a>, icons by <a href="https://simpleicons.org">Simple Icons</a> and <a href="https://skillicons.dev">skillicons.dev</a>
+    <br>
+    ✨ heading fonts generated with <a href="https://fsymbols.com/generators/carty/">fsymbols.com carty generator</a>
+    <br>
+    🐱 github pet by <a href="https://github.com/prsdx">prsdx</a> — <a href="https://github.com/prsdx/YourTomo">YourTomo</a>
+    <br>
+    🔥 streak stats by <a href="https://github.com/DenverCoder1/github-readme-streak-stats">github-readme-streak-stats</a>
+    <br>
+    🎵 now playing card by <a href="https://github.com/icortesb">icortesb</a> — <a href="https://github.com/icortesb/vinilo">vinilo</a>
 
   </sub>
 </p>
+
+<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lailien3/lailien3/main/dist/pet.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lailien3/lailien3/main/dist/pet-light.svg">
+  <img alt="my github pet" src="https://raw.githubusercontent.com/lailien3/lailien3/main/dist/pet.svg" width="100%">
+</picture>
+</div>
