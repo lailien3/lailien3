@@ -7,7 +7,7 @@
 </div>
 
 <div align="center">
-  <em><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=63B481&center=true&vCenter=true&width=460&lines=software+developer+%40+DEFRA" alt="Typing SVG"/></em>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=63B481&center=true&vCenter=true&width=460&lines=software+developer+%40+DEFRA" alt="Typing SVG"/>
 </div>
 
 <h2 align="center"><img src="assets/decor-tech-left.png" height="30" />𝕥𝕖𝕔𝕙 𝕤𝕥𝕒𝕔𝕜 <img src="assets/decor-tech-right.png" height="30" /></h2>
