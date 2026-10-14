@@ -110,8 +110,8 @@
     🐱 github pet by <a href="https://github.com/prsdx">prsdx</a> — <a href="https://github.com/prsdx/YourTomo">YourTomo</a>
     <br>
     🔥 streak stats by <a href="https://github.com/DenverCoder1/github-readme-streak-stats">github-readme-streak-stats</a>
-    <br>
-    🎵 now playing card by <a href="https://github.com/icortesb">icortesb</a> — <a href="https://github.com/icortesb/vinilo">vinilo</a>
+    <!-- <br>
+    🎵 now playing card by <a href="https://github.com/icortesb">icortesb</a> — <a href="https://github.com/icortesb/vinilo">vinilo</a> -->
 
   </sub>
 </p>
