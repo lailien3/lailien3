@@ -114,18 +114,18 @@
     🌌 contribution gravity by <a href="https://github.com/flycran">flycran</a> — <a href="https://github.com/flycran/github-gravity">github-gravity</a>
     <br>
     🔥 streak stats by <a href="https://github.com/DenverCoder1/github-readme-streak-stats">github-readme-streak-stats</a>
-    <br>
-    🐱 github pet by <a href="https://github.com/prsdx">prsdx</a> — <a href="https://github.com/prsdx/YourTomo">YourTomo</a>
+    <!-- <br>
+    🐱 github pet by <a href="https://github.com/prsdx">prsdx</a> — <a href="https://github.com/prsdx/YourTomo">YourTomo</a> -->
     <!-- <br>
     🎵 now playing card by <a href="https://github.com/icortesb">icortesb</a> — <a href="https://github.com/icortesb/vinilo">vinilo</a> -->
 
   </sub>
 </p>
 
-<div align="center">
+<!-- <div align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lailien3/lailien3/main/dist/pet.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lailien3/lailien3/main/dist/pet-light.svg">
   <img alt="my github pet" src="https://raw.githubusercontent.com/lailien3/lailien3/main/dist/pet.svg" width="100%">
 </picture>
-</div>
+</div> -->
