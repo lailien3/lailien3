@@ -70,7 +70,7 @@
 <h2 align="center"><img src="assets/decor-stats-left.png" height="30" />𝕤𝕥𝕒𝕥𝕤 <img src="assets/decor-stats-right.png" height="30" /></h2>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/lailien3/lailien3/output/gravity.svg" width="100%" alt="contribution gravity" />
+  <img src="https://raw.githubusercontent.com/lailien3/lailien3/output/gravity.svg?v=2" width="90%" alt="contribution gravity" />
 </div>
 
 <p align="center">
