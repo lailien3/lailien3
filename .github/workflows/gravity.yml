@@ -1,0 +1,31 @@
+name: Contribution gravity
+on:
+  schedule:
+    - cron: '0 0 * * *'
+  push:
+    branches:
+      - main
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  gravity:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: flycran/github-gravity@v1
+        with:
+          username: lailien3
+          text: LAILA ALEISSA
+          output-path: deploy/gravity.svg
+          background-color: transparent
+          text-color: "#ACE1AF"
+      - uses: peaceiris/actions-gh-pages@v4
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./deploy
+          publish_branch: output
+          keep_files: false
+          force_orphan: true

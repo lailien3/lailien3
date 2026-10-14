@@ -69,6 +69,10 @@
 
 <h2 align="center"><img src="assets/decor-stats-left.png" height="30" />𝕤𝕥𝕒𝕥𝕤 <img src="assets/decor-stats-right.png" height="30" /></h2>
 
+<div align="center">
+  <img src="https://raw.githubusercontent.com/lailien3/lailien3/output/gravity.svg" width="100%" alt="contribution gravity" />
+</div>
+
 <p align="center">
   <a href="https://github.com/lailien3">
     <img width="%" src="https://github-readme-streak-stats.herokuapp.com/?user=lailien3&hide_border=true&background=35694C&ring=872429&fire=CB505F&currStreakLabel=63B481&sideLabels=63B481&currStreakNum=ACE1AF&sideNums=ACE1AF&dates=FF8896" />
@@ -110,6 +114,8 @@
     🐱 github pet by <a href="https://github.com/prsdx">prsdx</a> — <a href="https://github.com/prsdx/YourTomo">YourTomo</a>
     <br>
     🔥 streak stats by <a href="https://github.com/DenverCoder1/github-readme-streak-stats">github-readme-streak-stats</a>
+    <br>
+    🌌 contribution gravity by <a href="https://github.com/flycran">flycran</a> — <a href="https://github.com/flycran/github-gravity">github-gravity</a>
     <!-- <br>
     🎵 now playing card by <a href="https://github.com/icortesb">icortesb</a> — <a href="https://github.com/icortesb/vinilo">vinilo</a> -->
 
