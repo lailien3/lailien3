@@ -70,12 +70,12 @@
 <h2 align="center"><img src="assets/decor-stats-left.png" height="30" />𝕤𝕥𝕒𝕥𝕤 <img src="assets/decor-stats-right.png" height="30" /></h2>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/lailien3/lailien3/output/gravity.svg?v=2" width="90%" alt="contribution gravity" />
+  <img src="https://raw.githubusercontent.com/lailien3/lailien3/output/gravity.svg?v=2" width="70%" alt="contribution gravity" />
 </div>
 
 <p align="center">
   <a href="https://github.com/lailien3">
-    <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=lailien3&hide_border=true&background=35694C&ring=872429&fire=CB505F&currStreakLabel=63B481&sideLabels=63B481&currStreakNum=ACE1AF&sideNums=ACE1AF&dates=FF8896" />
+    <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=lailien3&hide_border=true&background=35694C&ring=872429&fire=CB505F&currStreakLabel=63B481&sideLabels=63B481&currStreakNum=ACE1AF&sideNums=ACE1AF&dates=FF8896" />
   </a>
 </p>
 
