@@ -1,5 +1,6 @@
-<div align="center">
-  <img src="assets/laila-header-fractal.png" alt="LAILA ALEISSA" width="100%" style="display: block; border-radius: 18px;" />
+<div align="center" style="position: relative; display: inline-block; width: 100%; height: 155px; overflow: hidden; border-radius: 18px;">
+  <!-- <img src="https://raw.githubusercontent.com/yzlc080733/Fractal_Image_Generator/main/newton_example.png" alt="fractal background" width="100%" style="display: block; border-radius: 18px; opacity: 0.5; object-fit: cover; height: 100%;" /> -->
+  <img src="assets/laila-ascii.png" alt="LAILA ALEISSA" width="100%" style="position: absolute; inset: 0; margin: auto;" />
 </div>
 
 <div align="center">
@@ -94,8 +95,8 @@
   <sub>
     🎨 custom color palette, compiled with <a href="https://coolors.co/ace1af-63b481-35694c-2b523c-ff8896-cb505f-a4303f-872429">coolors.co</a>
     <br>
-    🌌 fractal background by <a href="https://github.com/yzlc080733/Fractal_Image_Generator">yzlc080733</a> — <a href="https://github.com/yzlc080733/Fractal_Image_Generator/blob/main/newton_example.png">Fractal Image Generator</a>
-    <br>
+    <!-- 🌌 fractal background by <a href="https://github.com/yzlc080733/Fractal_Image_Generator">yzlc080733</a> — <a href="https://github.com/yzlc080733/Fractal_Image_Generator/blob/main/newton_example.png">Fractal Image Generator</a>
+    <br> -->
     💡 ascii name idea inspired by <a href="https://github.com/tayyabadev/tayyabadev">tayyabadev</a>'s profile (styled with <a href="http://www.figlet.org/">figlet</a>'s "isometric1" font by Kent Nassen)
     <br>
     🌳 bonsai code by <a href="https://github.com/egorthinks">egorthinks</a> — <a href="https://github.com/egorthinks/git-bonsai">git-bonsai</a>
