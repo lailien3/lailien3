@@ -22,20 +22,6 @@ jobs:
           output-path: deploy/gravity.svg
           background-color: transparent
           text-color: "#FF8896"
-      - name: Crop top 25% and bottom 24%
-        run: |
-          python3 - <<'PY'
-          import re
-          p = 'deploy/gravity.svg'
-          s = open(p, encoding='utf-8').read()
-          m = re.search(r'viewBox="0 0 ([\d.]+) ([\d.]+)"', s)
-          w, h = float(m.group(1)), float(m.group(2))
-          top, new_h = h * 0.25, h * 0.51
-          head, rest = s.split('>', 1)
-          head = re.sub(r'viewBox="[^"]*"', f'viewBox="0 {top:g} {w:g} {new_h:g}"', head)
-          head = re.sub(r'height="[\d.]+"', f'height="{new_h:g}"', head)
-          open(p, 'w', encoding='utf-8').write(head + '>' + rest)
-          PY
       - uses: peaceiris/actions-gh-pages@v4
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
