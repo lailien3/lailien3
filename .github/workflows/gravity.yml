@@ -21,7 +21,7 @@ jobs:
           text: LAILA ALEISSA
           output-path: deploy/gravity.svg
           background-color: transparent
-          text-color: "#ACE1AF"
+          text-color: "#FF8896"
       - uses: peaceiris/actions-gh-pages@v4
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
