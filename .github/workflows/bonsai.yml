@@ -11,3 +11,34 @@ jobs:
     steps:
       - uses: actions/checkout@v4
       - uses: egorthinks/git-bonsai@v1
+        with:
+          commit: 'false'
+      - name: Crop blank space above the tree
+        run: |
+          pip install --quiet pillow
+          python3 - <<'PY'
+          from PIL import Image, ImageChops, ImageSequence
+          src = 'output/bonsai-growth.gif'
+          im = Image.open(src)
+          w, h = im.size
+          frames = [f.convert('RGBA') for f in ImageSequence.Iterator(im)]
+          durs = [f.info.get('duration', 100) for f in ImageSequence.Iterator(im)]
+          top = h
+          for f in frames:
+              bg = Image.new('RGBA', f.size, f.getpixel((0, 0)))
+              box = ImageChops.difference(f, bg).getbbox()
+              if box:
+                  top = min(top, box[1])
+          cut = max(top - 10, 0)
+          cropped = [f.crop((0, cut, w, h)) for f in frames]
+          cropped[0].save(src, save_all=True, append_images=cropped[1:], duration=durs,
+                          loop=im.info.get('loop', 0), disposal=2, optimize=False)
+          print('cropped', cut, 'px from top')
+          PY
+      - name: Commit
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add output
+          git diff --cached --quiet || git commit -m "chore: tend the bonsai 🌳"
+          git push
