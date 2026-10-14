@@ -1,6 +1,5 @@
-<div align="center" style="position: relative; display: inline-block; width: 100%; height: 155px; overflow: hidden; border-radius: 18px;">
-  <img src="https://raw.githubusercontent.com/yzlc080733/Fractal_Image_Generator/main/newton_example.png" alt="fractal background" width="100%" style="display: block; border-radius: 18px; opacity: 0.5; object-fit: cover; height: 100%;" />
-  <img src="assets/laila-ascii.png" alt="LAILA ALEISSA" width="100%" style="position: absolute; inset: 0; margin: auto;" />
+<div align="center">
+  <img src="assets/laila-header-fractal.png" alt="LAILA ALEISSA" width="100%" style="display: block; border-radius: 18px;" />
 </div>
 
 <div align="center">
