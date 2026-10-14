@@ -107,15 +107,15 @@
     <br>
     ⌨️ typing animation by <a href="https://github.com/DenverCoder1/readme-typing-svg">readme-typing-svg</a>
     <br>
-    🏷️ badges by <a href="https://shields.io">shields.io</a>, icons by <a href="https://simpleicons.org">Simple Icons</a> and <a href="https://skillicons.dev">skillicons.dev</a>
-    <br>
     ✨ heading fonts generated with <a href="https://fsymbols.com/generators/carty/">fsymbols.com carty generator</a>
     <br>
-    🐱 github pet by <a href="https://github.com/prsdx">prsdx</a> — <a href="https://github.com/prsdx/YourTomo">YourTomo</a>
+    🏷️ badges by <a href="https://shields.io">shields.io</a>, icons by <a href="https://simpleicons.org">Simple Icons</a> and <a href="https://skillicons.dev">skillicons.dev</a>
+    <br>
+    🌌 contribution gravity by <a href="https://github.com/flycran">flycran</a> — <a href="https://github.com/flycran/github-gravity">github-gravity</a>
     <br>
     🔥 streak stats by <a href="https://github.com/DenverCoder1/github-readme-streak-stats">github-readme-streak-stats</a>
     <br>
-    🌌 contribution gravity by <a href="https://github.com/flycran">flycran</a> — <a href="https://github.com/flycran/github-gravity">github-gravity</a>
+    🐱 github pet by <a href="https://github.com/prsdx">prsdx</a> — <a href="https://github.com/prsdx/YourTomo">YourTomo</a>
     <!-- <br>
     🎵 now playing card by <a href="https://github.com/icortesb">icortesb</a> — <a href="https://github.com/icortesb/vinilo">vinilo</a> -->
 
